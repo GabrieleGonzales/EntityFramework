@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YvTYacOMDnrcP0qOeGP1bacj2pxZ9EidqzWPXqzFCqY=",
+  "Source": "EntityFrameworkCoreExample",
+  "BasePath": "_content/EntityFrameworkCoreExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
